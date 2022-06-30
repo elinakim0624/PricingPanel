@@ -1,1 +1,1 @@
-This is Price Panel Project done in online course.
+This is Responsive Price Panel Project done in online course.
